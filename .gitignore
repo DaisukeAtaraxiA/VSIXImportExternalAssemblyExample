@@ -1,0 +1,7 @@
+.vs/
+VSIXImportExternalAssemblyExample/obj/
+packages/
+VSIXImportExternalAssemblyExample/bin/
+ExternalClassLibrary/obj/
+ExternalClassLibrary/bin/
+*.user
